@@ -1,7 +1,7 @@
 ---
 title: HelloWorld
 parent: python
-layout: default
+layout: post
 nav_order: 1
 ---
 

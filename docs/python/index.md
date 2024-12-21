@@ -1,6 +1,6 @@
 ---
 title: python
-layout: default
+layout: post
 nav_order: 3
 ---
 
