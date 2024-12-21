@@ -1,5 +1,5 @@
 ---
-title: UI Components
+title: python
 nav_order: 3
 ---
 
